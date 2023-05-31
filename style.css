@@ -198,7 +198,7 @@
    }
    
    main > article > .article-description-section > p {
-     color: rgba(255, 0, 0, 0.806);
+     color: rgba(255, 255, 255, 0.806);
      font-size: 1.25em;
    }
    
@@ -436,3 +436,4 @@ h1:hover{
 .nav-section:hover{
 background-color:rgb(8, 14, 28);
 }
+
