@@ -198,7 +198,7 @@
    }
    
    main > article > .article-description-section > p {
-     color: rgba(255, 255, 255, 0.806);
+     color: rgba(255, 0, 0, 0.806);
      font-size: 1.25em;
    }
    
@@ -426,10 +426,6 @@ h1:hover{
 }
 .article-description-section {
   font-size:medium;
-}
-.search{
-  z-index: 5000;
-  border: 1px solid white;
 }
 .article-description-section:hover{
   padding: 4rem;
